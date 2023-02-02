@@ -1,0 +1,10 @@
+[
+  "testCases/test_addCustomer.py::Test_003_AddCustomer::test_addCustomer",
+  "testCases/test_login.py::Test_001_Login::test_homePageTitle",
+  "testCases/test_login.py::Test_001_Login::test_login",
+  "testCases/test_login_ddt.py::Test_002_DDT_Login::test_login",
+  "testCases/test_login_ddt.py::Test_002_DDT_Login::test_login_ddt",
+  "testCases/test_searchCustomerByEmail.py::Test_SearchCustomerByEmail_004::test_searchCustomerByEmail",
+  "testCases/test_searchCustomerByName.py::Test_SearchCustomerByEmail_004::test_searchCustomerByEmail",
+  "testCases/test_searchCustomerByName.py::Test_SearchCustomerByName_005::test_searchCustomerByName"
+]

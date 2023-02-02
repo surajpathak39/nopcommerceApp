@@ -1,0 +1,4 @@
+{
+  "testCases/test_login_ddt.py::Test_002_DDT_Login::test_login": true,
+  "testCases/test_searchCustomerByName.py::Test_SearchCustomerByEmail_004::test_searchCustomerByEmail": true
+}

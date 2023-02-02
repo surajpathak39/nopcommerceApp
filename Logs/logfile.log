@@ -1,0 +1,59 @@
+2023-02-02 15:33:44,261 :INFO : Test_003_AddCustomer : ************* Test_003_AddCustomer **********
+2023-02-02 15:33:52,377 :INFO : Test_003_AddCustomer : ************* Login successful **********
+2023-02-02 15:33:52,377 :INFO : Test_003_AddCustomer : ******* Starting Add Customer Test **********
+2023-02-02 15:33:55,625 :INFO : Test_003_AddCustomer : ************* Providing customer info **********
+2023-02-02 15:34:03,342 :INFO : Test_001_Login : *************** Test_001_Login ***************
+2023-02-02 15:34:03,342 :INFO : Test_001_Login : *************** Verify Home Page Title***************
+2023-02-02 15:34:11,935 :INFO : Test_001_Login : *************** Verifying Login Test ***************
+2023-02-02 15:36:57,085 :INFO : Test_003_AddCustomer : ************* Test_003_AddCustomer **********
+2023-02-02 15:37:03,354 :INFO : Test_003_AddCustomer : ************* Login successful **********
+2023-02-02 15:37:03,354 :INFO : Test_003_AddCustomer : ******* Starting Add Customer Test **********
+2023-02-02 15:37:08,434 :INFO : Test_003_AddCustomer : ************* Providing customer info **********
+2023-02-02 15:37:21,341 :INFO : Test_003_AddCustomer : ************* Saving customer info **********
+2023-02-02 15:37:21,342 :INFO : Test_003_AddCustomer : ********* Add customer validation started *****************
+2023-02-02 15:37:21,385 :INFO : Test_003_AddCustomer : ********* Add customer Test Passed *********
+2023-02-02 15:37:21,650 :INFO : Test_003_AddCustomer : ******* Ending Add customer test **********
+2023-02-02 15:37:23,179 :INFO : Test_001_Login : *************** Verifying Login Test ***************
+2023-02-02 15:37:48,982 :INFO : Test_001_Login : *************** Login Test Test is passed***************
+2023-02-02 15:39:38,484 :INFO : Test_003_AddCustomer : ************* Test_003_AddCustomer **********
+2023-02-02 15:39:52,698 :INFO : Test_003_AddCustomer : ************* Login successful **********
+2023-02-02 15:39:52,698 :INFO : Test_003_AddCustomer : ******* Starting Add Customer Test **********
+2023-02-02 15:39:56,471 :INFO : Test_003_AddCustomer : ************* Providing customer info **********
+2023-02-02 15:40:08,892 :INFO : Test_003_AddCustomer : ************* Saving customer info **********
+2023-02-02 15:40:08,892 :INFO : Test_003_AddCustomer : ********* Add customer validation started *****************
+2023-02-02 15:40:08,962 :INFO : Test_003_AddCustomer : ********* Add customer Test Passed *********
+2023-02-02 15:40:09,237 :INFO : Test_003_AddCustomer : ******* Ending Add customer test **********
+2023-02-02 15:40:10,830 :INFO : Test_001_Login : *************** Test_001_Login ***************
+2023-02-02 15:40:10,831 :INFO : Test_001_Login : *************** Verify Home Page Title***************
+2023-02-02 15:40:15,802 :INFO : Test_001_Login : *************** Home Page Test is passed***************
+2023-02-02 15:40:17,113 :INFO : Test_001_Login : *************** Verifying Login Test ***************
+2023-02-02 15:40:31,876 :INFO : Test_001_Login : *************** Login Test Test is passed***************
+2023-02-02 15:40:33,317 :INFO : Test_002_DDT_Login : ******* Starting Test_002_DDT_Login Test **********
+2023-02-02 15:40:33,317 :INFO : Test_002_DDT_Login : ******* Starting Login DDT Test **********
+2023-02-02 15:40:48,974 :INFO : Test_002_DDT_Login : **** passed ****
+2023-02-02 15:40:57,830 :INFO : Test_002_DDT_Login : **** passed ****
+2023-02-02 15:41:03,648 :INFO : Test_002_DDT_Login : **** passed ****
+2023-02-02 15:41:09,474 :INFO : Test_002_DDT_Login : **** passed ****
+2023-02-02 15:41:09,475 :INFO : Test_002_DDT_Login : ******* DDT Login test passed **********
+2023-02-02 15:41:09,749 :INFO : Test_002_DDT_Login : ******* End of Login DDT Test **********
+2023-02-02 15:41:09,749 :INFO : Test_002_DDT_Login : **************** Completed  TC_LoginDDT_002 ************* 
+2023-02-02 15:41:11,315 :INFO : Test_004_SearchCustomerByEmail : ************* SearchCustomerByEmail_004 **********
+2023-02-02 15:41:21,606 :INFO : Test_004_SearchCustomerByEmail : ************* Login successful **********
+2023-02-02 15:41:21,606 :INFO : Test_004_SearchCustomerByEmail : ******* Starting Search Customer By Email **********
+2023-02-02 15:41:23,771 :INFO : Test_004_SearchCustomerByEmail : ************* searching customer by emailID **********
+2023-02-02 15:41:29,359 :INFO : Test_004_SearchCustomerByEmail : ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-02-02 15:41:30,695 :INFO : Test_005_SearchCustomerByName : ************* SearchCustomerByName_005 **********
+2023-02-02 15:41:37,576 :INFO : Test_005_SearchCustomerByName : ************* Login successful **********
+2023-02-02 15:41:37,576 :INFO : Test_005_SearchCustomerByName : ******* Starting Search Customer By Name **********
+2023-02-02 15:41:41,252 :INFO : Test_005_SearchCustomerByName : ************* searching customer by Name **********
+2023-02-02 15:41:46,842 :INFO : Test_005_SearchCustomerByName : ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-02-02 22:33:14,535 :INFO : Test_003_AddCustomer : ************* Test_003_AddCustomer **********
+2023-02-02 22:33:24,307 :INFO : Test_003_AddCustomer : ************* Login successful **********
+2023-02-02 22:33:24,307 :INFO : Test_003_AddCustomer : ******* Starting Add Customer Test **********
+2023-02-02 22:33:28,669 :INFO : Test_003_AddCustomer : ************* Providing customer info **********
+2023-02-02 22:33:42,033 :INFO : Test_003_AddCustomer : ************* Saving customer info **********
+2023-02-02 22:33:42,034 :INFO : Test_003_AddCustomer : ********* Add customer validation started *****************
+2023-02-02 22:33:42,075 :INFO : Test_003_AddCustomer : ********* Add customer Test Passed *********
+2023-02-02 22:33:42,505 :INFO : Test_003_AddCustomer : ******* Ending Add customer test **********
+2023-02-02 22:33:44,023 :INFO : Test_001_Login : *************** Verifying Login Test ***************
+2023-02-02 22:33:54,323 :INFO : Test_001_Login : *************** Login Test Test is passed***************
