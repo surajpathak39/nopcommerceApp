@@ -32,7 +32,6 @@ class AddCustomer:
     def clickOnCustomersMenu(self):
         self.driver.find_element(By.XPATH, self.lnkCustomers_menu_xpath).click()
 
-
     def clickOnCustomersMenuItem(self):
         self.driver.find_element(By.XPATH, self.lnkCustomers_menuitem_xpath).click()
 
@@ -99,6 +98,3 @@ class AddCustomer:
 
     def getSuccessMsg(self):
         return self.driver.find_element(By.XPATH, self.alertMessage_xpath).text
-
-
-
